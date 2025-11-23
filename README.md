@@ -2,6 +2,7 @@
 ## Challenge: Internet Policy
 
 Team Members: Carla Sanchez, Kilhah St Fort, Kashish Mistry, Mohani Adem
+
 Leveraging the Integrity Institute's Policy Tracker.
 
 Files:
